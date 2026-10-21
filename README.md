@@ -1,5 +1,6 @@
 Health Rich 🏥
 Every heartbeat deserves help ❤️
+https://lovable.dev/preview/5h2AAgdcQJzcFhBSKlnQRRZ46R4OFwU5
 
 📌 About the Project
 Health Rich is an AI-powered healthcare platform that integrates nearby hospital discovery, senior citizen care, and pregnancy care into one accessible application. It aims to make healthcare more convenient, organized, and accessible for both rural and urban communities.
